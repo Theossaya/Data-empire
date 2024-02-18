@@ -24,7 +24,7 @@ Discover my skills in VBA to:
 - Develop custom functions for specific calculations.
 - Design interactive user interfaces for engaging data interaction.
 
-### 🌟 Other (optional)
+### 🌟 Other
 This section includes projects tailored to specialized fields like finance, marketing, or statistics, showcasing domain-specific Excel applications.
 
 ## ℹ️ Additional Information
