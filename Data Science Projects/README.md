@@ -17,8 +17,6 @@ This repository showcases my exploration of various deep learning techniques thr
 ## What you'll find in each project folder:
 
 - Project description: A brief overview of the problem tackled and the chosen approach.
-- Data description: Information about the datasets used, including sources and pre-processing steps.
-- Model architecture: Detailed explanation of the neural network architecture and its components.
 - Training and evaluation: Steps involved in training the model and metrics used for evaluation.
 - Results and insights: Key takeaways from the project, including visualizations and performance analysis.
 - Code: Jupyter Notebooks or Python scripts implementing the project (if available).
